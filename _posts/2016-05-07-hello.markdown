@@ -5,6 +5,6 @@ date:   2016-05-07 19:30:00 -0500
 ---
 Hello. My name is Ryan Malesevich. Welcome to my small area of the internet. I will keep this brief as no one will be reading this when it's posted.
 
-I work as a  data warehouse developer and analyst. I love data. I plan on writing about many things but small data, big data and data collection will be the main topics.
+I work as a data warehouse developer and analyst. I love data. I plan on writing about many things but small data, big data and data collection will be the main topics.
 
 I have not enabled comments on the blog but please email me or reach out to me on Twitter.
